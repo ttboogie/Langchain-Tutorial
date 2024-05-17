@@ -1,0 +1,11 @@
+langchain
+langchain_openai
+langchain_community
+openai
+python-dotenv
+PyPDF2
+numpy
+chromadb
+panel
+param
+langchain-text-splitters
